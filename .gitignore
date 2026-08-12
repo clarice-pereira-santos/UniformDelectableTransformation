@@ -1,0 +1,16 @@
+# Compiled Java artifacts
+*.class
+
+# Build output
+target/
+out/
+
+# IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Java language server
+.factorypath
